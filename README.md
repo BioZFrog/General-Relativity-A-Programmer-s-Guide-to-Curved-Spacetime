@@ -1,5 +1,9 @@
 # General Relativity: A Programmer's Guide to Curved Spacetime 🌌
 
+<p align="center">
+  <img src="cover.png" width="400" alt="General Relativity Book Cover">
+</p>
+
 Welcome! This is an open-source, living textbook tracking my journey into the deep end of Einsteinian physics, differential geometry, and tensor calculus. 
 
 ## 🧠 About This Project
