@@ -15,7 +15,7 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 15
 - [x] Minkowski Metric & Spacetime Intervals
 - [x] Lorentz Transformations & Four-Vectors
 - [x] Christoffel Symbols & Metric Partial Derivatives
-- [ ] The Covariant Derivative
+- [x] The Covariant Derivative
 - [ ] Parallel Transport
 - [ ] The Geodesic Equation
 - ...................
