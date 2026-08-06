@@ -16,7 +16,7 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 15
 - [x] Lorentz Transformations & Four-Vectors
 - [x] Christoffel Symbols & Metric Partial Derivatives
 - [x] The Covariant Derivative
-- [ ] Parallel Transport
+- [x] Parallel Transport
 - [ ] The Geodesic Equation
 - ...................
 
