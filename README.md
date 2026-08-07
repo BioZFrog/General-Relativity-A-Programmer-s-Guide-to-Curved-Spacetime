@@ -17,7 +17,8 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 15
 - [x] Christoffel Symbols & Metric Partial Derivatives
 - [x] The Covariant Derivative
 - [x] Parallel Transport
-- [ ] The Geodesic Equation
+- [x] The Geodesic Equation (Vector Form)
+- [] The Geodesic Equation (Coordinate Form)
 - ...................
 
 ## 🚀 How to Read
