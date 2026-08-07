@@ -18,7 +18,7 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 15
 - [x] The Covariant Derivative
 - [x] Parallel Transport
 - [x] The Geodesic Equation (Vector Form)
-- [] The Geodesic Equation (Coordinate Form)
+- [ ] The Geodesic Equation (Coordinate Form)
 - ...................
 
 ## 🚀 How to Read
