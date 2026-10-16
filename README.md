@@ -7,7 +7,7 @@
 Welcome! This is an open-source, living textbook tracking my journey into the deep end of Einsteinian physics, differential geometry, and tensor calculus. 
 
 ## 🧠 About This Project
-Most physics textbooks wrap General Relativity in dense academic jargon. As a 15-year-old programmer, I am writing this book to demystify these complex spatial structures using logical, step-by-step algorithms and algorithmic analogies that make sense to developers. 
+Most physics textbooks wrap General Relativity in dense academic jargon. As a 16-year-old programmer, I am writing this book to demystify these complex spatial structures using logical, step-by-step algorithms and algorithmic analogies that make sense to developers. 
 
 ## 🗺️ Current Roadmap & Progress
 - [x] The Equivalence Principle & Spacetime Curvature
@@ -19,7 +19,10 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 15
 - [x] Parallel Transport
 - [x] The Geodesic Equation
 - [x] Riemann Curvature Tensor
-- [ ] Ricci Tensor
+- [x] Ricci Tensor
+- [ ] Ricci Scalar
+- [ ] Weyl Tensor (Conformal Curvature)
+- [ ] Bianchi Identities
 - ...................
 
 ## 🚀 How to Read
