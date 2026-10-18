@@ -20,7 +20,7 @@ Most physics textbooks wrap General Relativity in dense academic jargon. As a 16
 - [x] The Geodesic Equation
 - [x] Riemann Curvature Tensor
 - [x] Ricci Tensor
-- [ ] Ricci Scalar
+- [x] Ricci Scalar
 - [ ] Weyl Tensor (Conformal Curvature)
 - [ ] Bianchi Identities
 - ...................
